@@ -1,0 +1,68 @@
+
+/* unique-capabilities styles */
+
+.unique-capabilities-section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #153b56;
+    color: aliceblue;
+  }
+  
+  .unique-capabilities-section .card-content {
+    text-align: center;
+  }
+  
+  .unique-capabilities-section h6 {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  
+  .unique-capabilities-section .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .unique-capabilities-section p.center-align {
+    margin-bottom: 0;
+  }
+  
+  .unique-capabilities-section p.center-align i {
+    font-size: 2rem;
+  }
+  
+  .unique-capabilities-section h6.center-align {
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+
+  /* end of unique-capabilities styles */
+
+
+  /* Styles for footer */
+.page-footer {
+  padding: 20px 0;
+}
+
+.vertical-align-bottom {
+  vertical-align: bottom;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.padding-right-5 {
+  padding-right: 5px;
+}
+
+.margin-top-5 {
+  margin-top: 5px;
+}
+
+.footer-container {
+  margin-left: 300px;
+}
+
+/* end of Footer styles */
